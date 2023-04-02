@@ -8,7 +8,6 @@ This is a project I did for my masters research paper, where I build a recommend
 * Optimised the SVD & ALS model. 
 * [Click Here to View PowerBi Dashboard](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791837)
 
-<iframe title="Airline Performance" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=69ab6620-15e2-4076-acbe-2177ca35c07a&autoAuth=true&ctid=68e73a1a-bc44-42a5-8919-7e9aee17ee36" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Overview Of The Singular Value Decomposition Architecture  
 ![](Picture%201.png) 
