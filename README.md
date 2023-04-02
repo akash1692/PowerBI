@@ -13,12 +13,12 @@ The following video for this project can be found on my [Click here for powerbi 
 
 # [Project 2: Airline Performance Model](https://github.com/RonitMalik/Movie-Recommendation-System-)
 
-This is a project where I build a Carrier's Performance for a US Airline dataset.
+In this project I build Carrier's Performance for a US Airline dataset.
 
 * It provides the most precise analytics to enable airlines to optimize planning, operations and passenger services.
-* It give detailed view of Carrier's Load Factor.
-* Seach functionality of Flights between Source and Destination.
-* Flights for each Distance Groups.
+* Gives detailed view of Carrier's Load Factor.
+* Have seach functionality of Flights between Source and Destination.
+* Shows total Flights for each Distance Groups.
 * Helps to measure airline on-time performance and gain insights with industry data.
 * The model is build on; Excel, PowerBI and Tableau.
 * MySQL is used to create views, Stored Procedures, etc 
