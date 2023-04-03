@@ -32,12 +32,12 @@ In this project I build Carrier's Performance for a US Airline dataset.
 * [Click here for Excel Dashboard](https://docs.google.com/spreadsheets/d/1net3VjV-bKPFrTyuu_3VbbXSCDGF6rV3/edit?usp=share_link&ouid=111778193148451519897&rtpof=true&sd=true)
 
 ### Popular Flights based on Passenger's Preference  
-![](Image%202.PNG)
+![](images/image1.PNG)
 
 [Click here to interact with PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGY3NWIzMjktMThkMi00NTQzLTljZjEtYTI3ZmJlYmQ4YTExIiwidCI6IjY4ZTczYTFhLWJjNDQtNDJhNS04OTE5LTdlOWFlZTE3ZWUzNiJ9)
 
 ### Overview of Carrier's Load factor Over time  
-![](image%201.PNG)
+![](images/image2.PNG)
 
 [Click here to interact with Tableau Dashboard](https://public.tableau.com/app/profile/akashsverma/viz/final2_16772454201710/LoadFactor)
 
