@@ -29,7 +29,7 @@ In this project I build Carrier's Performance for a US Airline dataset.
 * Helps to measure airline on-time performance and gain insights with industry data.
 * The model is build on: Excel, PowerBI and Tableau.
 * MySQL is used to create views, Stored Procedures, etc 
-* [Click here for Excel Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGY3NWIzMjktMThkMi00NTQzLTljZjEtYTI3ZmJlYmQ4YTExIiwidCI6IjY4ZTczYTFhLWJjNDQtNDJhNS04OTE5LTdlOWFlZTE3ZWUzNiJ9)
+* [Click here for Excel Dashboard](https://docs.google.com/spreadsheets/d/1net3VjV-bKPFrTyuu_3VbbXSCDGF6rV3/edit?usp=share_link&ouid=111778193148451519897&rtpof=true&sd=true)
 
 ### Popular Flights based on Passenger's Preference  
 ![](Image%202.PNG)
