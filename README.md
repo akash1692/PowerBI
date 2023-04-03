@@ -1,4 +1,4 @@
-## [Project 1: Industrial Energy Combustion Model](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+## [Project 1: Industrial Energy Combustion Model](https://github.com/ermakash/Akash-s_Analytics_Portfolio)
 
 This Project is about in-depth facility-level information on industrial combustion energy use in the United States. 
 
@@ -19,7 +19,7 @@ This Project is about in-depth facility-level information on industrial combusti
 
 [Click here to interact with Tableau Dashboard](https://public.tableau.com/app/profile/akashsverma/viz/final2_16772454201710/LoadFactor)
 
-## [Project 2: Airline Performance Model](https://github.com/RonitMalik/Movie-Recommendation-System-)
+## [Project 2: Airline Performance Model](https://github.com/ermakash/Akash-s_Analytics_Portfolio)
 
 In this project I build Carrier's Performance for a United States Airline dataset.
 
