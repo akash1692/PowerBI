@@ -9,15 +9,15 @@ This Project is about in-depth facility-level information on industrial combusti
 * **PowerBI** and **Tableau**: Created a fully functional integrated dashboard as per business requirements
   
 
-### Popular Flights based on Passenger's Preference  
-![](Image%202.PNG)
+### Primary NAICS wise in-depth Decomposition  
+![](images/image3.PNG)
 
-[Click here to interact with PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGY3NWIzMjktMThkMi00NTQzLTljZjEtYTI3ZmJlYmQ4YTExIiwidCI6IjY4ZTczYTFhLWJjNDQtNDJhNS04OTE5LTdlOWFlZTE3ZWUzNiJ9)
+[Click here to interact with PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDI0OTIzNTktN2EyOS00NzM2LWE3MmItNzY5NmIwZjVkOGQ1IiwidCI6IjY4ZTczYTFhLWJjNDQtNDJhNS04OTE5LTdlOWFlZTE3ZWUzNiJ9)
 
-### Overview of Carrier's Load factor Over time  
-![](image%201.PNG)
+### Percentage Share of Heat Combustion South Region  
+![](images/image4.PNG)
 
-[Click here to interact with Tableau Dashboard](https://public.tableau.com/app/profile/akashsverma/viz/final2_16772454201710/LoadFactor)
+[Click here to interact with Tableau Dashboard](https://public.tableau.com/app/profile/akashsverma/viz/energy_16804583678300/OverView)
 
 ## [Project 2: Airline Performance Model](https://github.com/ermakash/Akash-s_Analytics_Portfolio)
 
