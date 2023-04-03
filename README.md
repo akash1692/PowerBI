@@ -1,4 +1,4 @@
-## [Project 1: Industrial Energy Combuistion Model](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+## [Project 1: Industrial Energy Combustion Model](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
 
 In this project I build Carrier's Performance for a US Airline dataset.
 
