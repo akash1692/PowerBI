@@ -10,12 +10,12 @@ This Project is about in-depth facility-level information on industrial combusti
   
 
 ### Primary NAICS wise in-depth Decomposition  
-![](images/image3.PNG)
+![](Images/image3.PNG)
 
 [Click here to interact with PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDI0OTIzNTktN2EyOS00NzM2LWE3MmItNzY5NmIwZjVkOGQ1IiwidCI6IjY4ZTczYTFhLWJjNDQtNDJhNS04OTE5LTdlOWFlZTE3ZWUzNiJ9)
 
 ### Percentage Share of Heat Combustion South Region  
-![](images/image4.PNG)
+![](Images/image4.PNG)
 
 [Click here to interact with Tableau Dashboard](https://public.tableau.com/app/profile/akashsverma/viz/energy_16804583678300/OverView)
 
