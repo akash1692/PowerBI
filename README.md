@@ -42,3 +42,21 @@ In this project I build Carrier's Performance for a United States Airline datase
 
 [Click here to interact with Tableau Dashboard](https://public.tableau.com/app/profile/akashsverma/viz/final2_16772454201710/LoadFactor)
 
+## [Project 3: Banking Customer Churn Analysis](https://github.com/ermakash/Akash-s_Analytics_Portfolio)
+
+In this project I analyse the data and bring out few insights on the Customer Churn..
+
+* It allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+* Took data from multiple source and created a Star Schema Model
+* Implemented coutry wise RLS.
+* Manage subscription and alerts in powerBI Service
+* Created an app as per business requirement.
+* The model is build on: **PowerBI**
+
+
+### Churn Percentage over Time  
+![](Images/image5.PNG)
+
+[Click here to interact with PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzUyNTg0ODUtMDVmMi00NWQzLWI4ZjMtYzdkZTQyMmZlNzUwIiwidCI6IjY4ZTczYTFhLWJjNDQtNDJhNS04OTE5LTdlOWFlZTE3ZWUzNiJ9)
+
+
