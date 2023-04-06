@@ -14,7 +14,7 @@ This Project is about in-depth facility-level information on industrial combusti
 
 [Click here to interact with PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDI0OTIzNTktN2EyOS00NzM2LWE3MmItNzY5NmIwZjVkOGQ1IiwidCI6IjY4ZTczYTFhLWJjNDQtNDJhNS04OTE5LTdlOWFlZTE3ZWUzNiJ9)
 
-### Percentage Share of Heat Combustion South Region  
+### Percentage Share of Heat Combustion in South Region  
 ![](Images/image4.PNG)
 
 [Click here to interact with Tableau Dashboard](https://public.tableau.com/app/profile/akashsverma/viz/energy_16804583678300/OverView)
